@@ -1,0 +1,7 @@
+{
+  "name": "leergemacht-chat",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
